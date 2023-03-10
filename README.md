@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EslamGohar/result-summary-component)
-- Live Site URL: [Add live site URL here](https://eslamx-result-summary.netlify.app/)
+- Solution URL: [Code](https://github.com/EslamGohar/result-summary-component)
+- Live Site URL: [live site](https://eslamx-result-summary.netlify.app/)
 
 ## My process
 
